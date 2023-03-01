@@ -1,0 +1,15 @@
+/Users/justinsimon/Desktop/repos/repos/3IterationStatementExercise3/IterationStatements3/bin/Debug/net6.0/IterationStatements
+/Users/justinsimon/Desktop/repos/repos/3IterationStatementExercise3/IterationStatements3/bin/Debug/net6.0/IterationStatements.deps.json
+/Users/justinsimon/Desktop/repos/repos/3IterationStatementExercise3/IterationStatements3/bin/Debug/net6.0/IterationStatements.runtimeconfig.json
+/Users/justinsimon/Desktop/repos/repos/3IterationStatementExercise3/IterationStatements3/bin/Debug/net6.0/IterationStatements.dll
+/Users/justinsimon/Desktop/repos/repos/3IterationStatementExercise3/IterationStatements3/bin/Debug/net6.0/IterationStatements.pdb
+/Users/justinsimon/Desktop/repos/repos/3IterationStatementExercise3/IterationStatements3/obj/Debug/net6.0/IterationStatements.csproj.AssemblyReference.cache
+/Users/justinsimon/Desktop/repos/repos/3IterationStatementExercise3/IterationStatements3/obj/Debug/net6.0/IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justinsimon/Desktop/repos/repos/3IterationStatementExercise3/IterationStatements3/obj/Debug/net6.0/IterationStatements.AssemblyInfoInputs.cache
+/Users/justinsimon/Desktop/repos/repos/3IterationStatementExercise3/IterationStatements3/obj/Debug/net6.0/IterationStatements.AssemblyInfo.cs
+/Users/justinsimon/Desktop/repos/repos/3IterationStatementExercise3/IterationStatements3/obj/Debug/net6.0/IterationStatements.csproj.CoreCompileInputs.cache
+/Users/justinsimon/Desktop/repos/repos/3IterationStatementExercise3/IterationStatements3/obj/Debug/net6.0/IterationStatements.dll
+/Users/justinsimon/Desktop/repos/repos/3IterationStatementExercise3/IterationStatements3/obj/Debug/net6.0/refint/IterationStatements.dll
+/Users/justinsimon/Desktop/repos/repos/3IterationStatementExercise3/IterationStatements3/obj/Debug/net6.0/IterationStatements.pdb
+/Users/justinsimon/Desktop/repos/repos/3IterationStatementExercise3/IterationStatements3/obj/Debug/net6.0/IterationStatements.genruntimeconfig.cache
+/Users/justinsimon/Desktop/repos/repos/3IterationStatementExercise3/IterationStatements3/obj/Debug/net6.0/ref/IterationStatements.dll
